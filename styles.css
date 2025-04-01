@@ -1,0 +1,45 @@
+h1 {
+    font-size: 200px;
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    background-image: url(img/red-tie-dye-background-Graphics.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#p1{
+    font-size: 22px;
+    position: absolute;
+    top: 30%;
+    left:60%;
+}
+
+#p2{
+    font-size: 22px;
+    position: absolute;
+    top: 10%;
+    left:10%;
+}
+
+#p3{
+    font-size: 22px;
+    position: absolute;
+    top: 34%;
+    left:4%;
+}
+
+#p4{
+    font-size: 22px;
+    position: absolute;
+    top: 35%;
+    left:62%;
+}
+
+img {
+    display: block;
+    margin: auto;
+}

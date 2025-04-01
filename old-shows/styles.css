@@ -1,0 +1,59 @@
+body{
+    background-image: url(../img/red-tie-dye-background-Graphics.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+a{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+.Adventure{
+    position: absolute;
+    top: 175px;
+    left: 225px;
+}
+
+.Boondocks{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+}
+
+.Chowder{
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+}
+
+.Flapjack{
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+}
+
+.Regular{
+    position: absolute;
+    top: 600px;
+    left: 600px;
+}
+
+.Spy{
+    position: absolute;
+    top: 450px;
+    left: 275px;
+}
+
+.description{
+    position: static;
+    padding-top: 300px;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    font-size: 40px;
+}
